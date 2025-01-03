@@ -1,4 +1,4 @@
-<h1 align="center">Moving average sigma for IMU noise reduction</h1>
+<h1 align="center">Moving average standard deviation for IMU noise reduction</h1>
 
 **Company:** General Aeronautics Pvt. Ltd.
 
